@@ -13,7 +13,8 @@ Screenshot of the commit I made to my teammate's repo:
 ![image](https://user-images.githubusercontent.com/57778780/190708867-46bb65f6-c800-4021-9447-adf6f1547474.png)
 Screenshot of the commit my teammate made to my repo:
 ![image](https://user-images.githubusercontent.com/57778780/190709565-da2392dd-fc7a-4e08-b5a4-ad49192921c0.png)
-
 # Activity 5
 ![image](https://user-images.githubusercontent.com/57778780/190915016-cf332741-1f9a-4ed3-948b-57fdad83484e.png)
+# Activity 6
+https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/tree/main/ECE444-F2022-EP
 
