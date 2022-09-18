@@ -17,4 +17,6 @@ Screenshot of the commit my teammate made to my repo:
 ![image](https://user-images.githubusercontent.com/57778780/190915016-cf332741-1f9a-4ed3-948b-57fdad83484e.png)
 # Activity 6
 https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/tree/main/ECE444-F2022-EP
-
+# Activity 7
+![image](https://user-images.githubusercontent.com/57778780/190931279-b2f02674-4989-4d9a-aa65-2654bdb975b8.png)
+![image](https://user-images.githubusercontent.com/57778780/190931364-ab1c2e37-d38d-4239-99f7-fec16e271539.png)
