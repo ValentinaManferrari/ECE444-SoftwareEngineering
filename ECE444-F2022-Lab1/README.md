@@ -20,3 +20,6 @@ https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/tree/main/ECE4
 # Activity 7
 ![image](https://user-images.githubusercontent.com/57778780/190931279-b2f02674-4989-4d9a-aa65-2654bdb975b8.png)
 ![image](https://user-images.githubusercontent.com/57778780/190931364-ab1c2e37-d38d-4239-99f7-fec16e271539.png)
+# Activity 8
+![image](https://user-images.githubusercontent.com/57778780/190932132-64959ce8-fcde-4e63-8acd-6c7996b26450.png)
+![image](https://user-images.githubusercontent.com/57778780/190933070-9080f0ea-26b8-4248-b75a-cf95cf8f9f1c.png)
