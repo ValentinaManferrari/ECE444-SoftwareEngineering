@@ -12,3 +12,9 @@ Textbook Example 2-2
 
 Commit messages indicating my successfully reproduction of textbook examples
 ![image](https://user-images.githubusercontent.com/57778780/192107413-c3700737-980c-4158-978c-6039811f53bb.png)
+
+# Activity 3
+![image](https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/blob/main/ECE444-F2022-Lab2/images/Activity3.png)
+
+Commit messages indicating my successfully reproduction of Chapter 3 textbook examples
+![image](https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/blob/main/ECE444-F2022-Lab2/images/Activity3commit.png)
