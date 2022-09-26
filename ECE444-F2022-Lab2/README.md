@@ -25,6 +25,6 @@ Commit messages indicating my successfully reproduction of Chapter 3 textbook ex
 ![image](https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/blob/main/ECE444-F2022-Lab2/images/Activity4c.png)
 ![image](https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/blob/main/ECE444-F2022-Lab2/images/Activity4d.png)
 
-Commit messages indicating my successfully reproduction of Chapter 3 textbook examples
+Commit messages indicating my successfully reproduction of Chapter 4 textbook examples
 ![image](https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/blob/main/ECE444-F2022-Lab2/images/Activity4commit.png)
 
