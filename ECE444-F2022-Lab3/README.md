@@ -1,3 +1,11 @@
+Valentina Manferrari -- This repo is a clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template.git
+# Lab 3
+## Activity 1
+![Activity1](https://user-images.githubusercontent.com/57778780/193321172-a1587d14-f582-4417-9651-1b9edbe4d29a.png)
+
+## Activity 2
+![Activity2](https://user-images.githubusercontent.com/57778780/193321212-948b2b98-7dfb-4a05-93a1-08df3a806d63.png)
+
 # Education_Pathways
 
 This is a modified version of the previous Assignment1 template.
