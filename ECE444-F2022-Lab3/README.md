@@ -6,6 +6,13 @@ Valentina Manferrari -- This repo is a clone of https://github.com/ECE444-2022Fa
 ## Activity 2
 ![Activity2](https://user-images.githubusercontent.com/57778780/193321212-948b2b98-7dfb-4a05-93a1-08df3a806d63.png)
 
+## Activity 3
+![Activity3](https://user-images.githubusercontent.com/57778780/193330085-a3e723be-c71c-4007-8ec2-f26a5968eb30.png)
+
+## Activity 4
+![Activity4](https://user-images.githubusercontent.com/57778780/193330105-97d41b3e-6258-44b4-bc59-6707638792ba.png)
+![Activity4a](https://user-images.githubusercontent.com/57778780/193330115-b588eb4b-8d88-4110-8dd5-3b8c2aca0b67.png)
+
 # Education_Pathways
 
 This is a modified version of the previous Assignment1 template.
