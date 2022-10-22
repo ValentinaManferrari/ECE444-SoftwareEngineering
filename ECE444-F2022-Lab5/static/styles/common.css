@@ -1,3 +1,40 @@
-.h1{
-    text-align: center
+body{
+    font-family: Verdana;
+    padding: 40px;
+    background-color: #C7F3FF;
+}
+h1, h3{
+    color: #00204E;
+}
+.common-page-heading-container{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.common-page-form select, input{
+    background-color: beige;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.common-page-form-field{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.common-page-form{
+    border: 2px;
+    border-style: solid;
+    border-color: #00204E;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.common-page-submit-btn{
+    margin-top: 20px;
 }

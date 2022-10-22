@@ -1,0 +1,30 @@
+#results-page-table-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#results-page-table-container > table{
+    border-radius: 20px;
+    padding: 20px;
+    border-collapse: separate;
+}
+#results-page-table-container > table > tbody > tr > td{
+    padding: 3px;
+    border-left: 1px solid #00204E;
+    border-bottom: 1px solid #00204E;
+}
+#results-page-table-container > table > thead > tr > th{
+    text-align: center !important;
+    position: sticky;
+    top: 2px;
+    z-index: 10;
+    background-color: #00204E;
+    color: white;
+    border-left: 1px solid #00204E;
+    border-bottom: 1px solid #00204E;
+}
+
+#results-page-table-container > table > thead > tr > th:last-child, table > tbody > tr > td:last-child {
+    border-right: 1px solid #00204E;
+}
