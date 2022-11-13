@@ -7,15 +7,15 @@ from project.app import app, db
 TEST_DB = "test.db"
 
 
-@pytest.fixture
-def client():
-    BASE_DIR = Path(__file__).resolve().parent.parent
-    app.config["TESTING"] = True
-    app.config["DATABASE"] = BASE_DIR.joinpath(TEST_DB)
+# @pytest.fixture
+# def client():
+#     BASE_DIR = Path(__file__).resolve().parent.parent
+#     app.config["TESTING"] = True
+#     app.config["DATABASE"] = BASE_DIR.joinpath(TEST_DB)
 
-    init_db() # setup
-    yield app.test_client() # tests run here
-    init_db() # teardown
+#     init_db() # setup
+#     yield app.test_client() # tests run here
+#     init_db() # teardown
 
 
 def login(client, username, password):
